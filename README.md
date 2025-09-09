@@ -2,7 +2,8 @@
 
 **By Divyaranjan Sahoo**
 
-> **Background Context:** This project was assigned by the Nebula Space Organisation as part of their selection criteria for potential candidates. For this challenge, I conducted a case study to develop an investment strategy for cab companies, leveraging data analysis and statistical methods to generate actionable market insights.
+> **Background Context:** This project was assigned by the Nebula Space Organisation as part of their selection criteria for potential candidates. For this task, I conducted a case study to develop an investment strategy for cab companies, leveraging data analysis and statistical methods to generate actionable insights.
+
 
 [![Project Notebook Preview](./assets/preview.png)](https://colab.research.google.com/drive/16tYZf6WxRYRQNSWQxT_dfQzLpCk2uYuj?usp=sharing)
 
